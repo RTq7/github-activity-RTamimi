@@ -1,4 +1,4 @@
-# github-activity-RTamimi
+# CO1707 Web Technologies
 
 
 # Reham Tamimi
